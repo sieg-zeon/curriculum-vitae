@@ -8,8 +8,8 @@ wip
 |key|value|
 |---|-----|
 |Name|Zeon|
-<!-- |Blog|[ブログ](ブログがあれば)| -->
 |X|[@geoeigo](https://twitter.com/geoeigo)|
+<!-- |Blog|[ブログ](ブログがあれば)| -->
 
 ## スキル
 
