@@ -37,6 +37,22 @@ wip
   - TOEIC: xxx点
   - 英検: xxx級
 
+## 資格
+
+- AWS認定
+  - [CLF](certifications/AWS/CLF)
+  - [SAA](certifications/AWS/SAA)
+  - [DVA](certifications/AWS/DVA)
+  - [SOA](certifications/AWS/SOA)
+  - [SAP](certifications/AWS/SAP)
+  - [DOP](certifications/AWS/DOP)
+  - [SCS](certifications/AWS/SCS)
+  - [DBS](certifications/AWS/DBS)
+- IPA
+  - [ITパスポート](リンク貼る)
+<!-- - 英語
+  - [英検準1級](リンク貼る) -->
+
 ## 強み
 
 ## やったことはないが興味があるもの
@@ -63,8 +79,8 @@ wip
 
 ### 社外プロジェクト
 
-- [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-- [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+<!-- - [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか) -->
+- [個人開発サービス](そのサービスのランディングページのリンクとか)
 
 <!-- ### 過去の登壇資料
 
