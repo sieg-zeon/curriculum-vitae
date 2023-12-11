@@ -1,11 +1,14 @@
 # 職務経歴書
 
+wip
+[参考](https://github.com/okohs/Curriculum-Vitae)
+
 ## 基本情報
 
 |key|value|
 |---|-----|
 |Name|Zeon|
-|Blog|[ブログ](ブログがあれば)|
+<!-- |Blog|[ブログ](ブログがあれば)| -->
 |X|[@geoeigo](https://twitter.com/geoeigo)|
 
 ## スキル
