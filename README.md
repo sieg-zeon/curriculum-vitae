@@ -70,6 +70,7 @@
 - MySQL WorkbenchによるER図の作成
 - SQLによるデータ分析、explainやindexを利用したパフォーマンスチューニング
 - x-ray, cloudWatchを利用した速度のボトルネック改善
+- jestによるテスト
 
 **コメント**
 
