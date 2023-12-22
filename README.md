@@ -181,9 +181,8 @@
 - Xcode
 - Android Studio
 - Google アナリティクス
-- [Chrome拡張](https://chromewebstore.google.com/detail/exkot-for-web/fkojkakbnmpfjdikmgddpjlbkaepolng?hl=ja)
+- [Chrome拡張](https://chromewebstore.google.com/detail/exkot-for-web/fkojkakbnmpfjdikmgddpjlbkaepolng?hl=ja) (private)
   - 業務で利用している勤怠管理システムの拡張
-  - in private
 
 ## 強み
 
