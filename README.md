@@ -6,7 +6,7 @@
 
 |key|value|
 |---|-----|
-|Name|小園志旺(Zeon)|
+|Name|小園志旺(こぞのじおん)|
 |Birthday|2001/03/29|
 |GitHub|[sieg-zeon](https://github.com/sieg-zeon)|
 |X|[@geoeigo](https://twitter.com/geoeigo)|
