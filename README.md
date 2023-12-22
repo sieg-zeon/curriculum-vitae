@@ -25,10 +25,11 @@
 - 教育ICTアプリのバックエンド開発、保守運用
 - 上記アプリと連携された同社別アプリの開発
 - k6を使った負荷テストツールの開発、保守運用
+- ER図の作成、データ同期
 
 **習得スキル**
 
-- 並行して参画した教育ICTアプリのCMSの時(後述)とほぼ同じ技術スタック
+- 並行して参画した教育ICTアプリのCMSの時(後述)とほぼ同じ技術スタックなので、同じ部分を省略
 - NestJSの開発手法
   - 同社別アプリ
 - PrismaによるORM開発
@@ -52,6 +53,7 @@
   - 途中でLambdaとAppSyncの構成からECSとApolloの構成に移行。
 - CMSで使う画像、音声、動画などを登録、取得、encodeするマイクロAPI(static-api)の開発
 - 検索用データ移行作業(DynamoDBからMySQLへ)
+- ER図の作成、データ同期
 
 **習得スキル**
 
@@ -65,6 +67,9 @@
 - CloudFormation, Serverless Framework、CDKを使ったIaC
 - シェルスクリプトでの自動化
 - Dockerでのコンテナ開発
+- MySQL WorkbenchによるER図の作成
+- SQLによるデータ分析、explainやindexを利用したパフォーマンスチューニング
+- x-ray, cloudWatchを利用した速度のボトルネック改善
 
 **コメント**
 
@@ -176,7 +181,9 @@
 - Xcode
 - Android Studio
 - Google アナリティクス
-- [Chrome拡張 (private for work)](https://chromewebstore.google.com/detail/exkot-for-web/fkojkakbnmpfjdikmgddpjlbkaepolng?hl=ja)
+- [Chrome拡張](https://chromewebstore.google.com/detail/exkot-for-web/fkojkakbnmpfjdikmgddpjlbkaepolng?hl=ja)
+  - 業務で利用している勤怠管理システムの拡張
+  - in private
 
 ## 強み
 
