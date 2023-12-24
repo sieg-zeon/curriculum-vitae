@@ -6,7 +6,7 @@
 
 |key|value|
 |---|-----|
-|Name|小園志旺(こぞのじおん)|
+|Name|Jion Kozono|
 |Birthday|2001/03/29|
 |GitHub|[sieg-zeon](https://github.com/sieg-zeon)|
 |X|[@geoeigo](https://twitter.com/geoeigo)|
@@ -23,7 +23,7 @@
 **担当業務**
 
 - 教育ICTアプリのバックエンド開発、保守運用
-- 上記アプリと連携された同社別アプリの開発
+- 上記アプリと連携された同社別アプリの開発(少し)
 - k6を使った負荷テストツールの開発、保守運用
 - ER図の作成、データ同期
 
